@@ -3,7 +3,7 @@ page.welcome.subheading = Welcome to the initiative app. You can use this tool t
 page.welcome.no-creatures = There are no creatures in this encounter. Add some using the button below to begin.
 page.welcome.add-creatures-btn = +
 page.welcome.add-creatures-modal.description = You can create multiple creatures at once. Write each new creature on a new line
-page.welcome.add-creatures-modal.add-creatures-btn = Add creatures
 
 generic.select-all = Select All
+generic.add-creatures-btn = Add creatures
 generic.cancel = Cancel
