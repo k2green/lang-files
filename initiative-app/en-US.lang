@@ -1,2 +1,9 @@
 page.welcome.heading = Welcome!
 page.welcome.subheading = Welcome to the initiative app. You can use this tool to manage and track the initiative order of the creatures in your encounters. To start, you will need to select the creatures that will be included in the current encounter.
+page.welcome.no-creatures = There are no creatures in this encounter. Add some using the button below to begin.
+page.welcome.add-creatures-btn = +
+page.welcome.add-creatures-modal.description = You can create multiple creatures at once. Write each new creature on a new line
+page.welcome.add-creatures-modal.add-creatures-btn = Add creatures
+
+generic.select-all = Select All
+generic.cancel = Cancel
