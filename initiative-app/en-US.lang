@@ -3,6 +3,7 @@ page.welcome.subheading = Welcome to the initiative app. You can use this tool t
 page.welcome.no-creatures = There are no creatures in this encounter. Add some using the button below to begin.
 page.welcome.add-creatures-btn = +
 
+page.welcome.menu.header = Menu
 page.welcome.menu.file-category = File
 page.welcome.menu.file-category.new = New
 page.welcome.menu.file-category.open = Open
